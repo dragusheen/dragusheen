@@ -38,18 +38,18 @@ Curently in my second-year student at Epitech with a passion for graphic develop
 # 👨‍💻 Projects & Libraries
 
 Projects:
-- [TicTacToe Bot](https://github.com/dragusheen/tic_tac_toe_Bot)
-- [EpicubeSolver](https://github.com/dragusheen/EpicubeSolver)
-- [Yorn](https://github.com/Yorn-Manager/yorn)
-- [Grade De](https://github.com/les-3-fantastiques-V2/grade_de?tab=readme-ov-file#table_type_branch)
+- <a href="https://github.com/dragusheen/tic_tac_toe_Bot" target="_blank">TicTacToe Bot</a>
+- <a href="https://github.com/dragusheen/EpicubeSolver" target="_blank">EpicubeSolver</a>
+- <a href="https://github.com/Yorn-Manager/yorn" target="_blank">Yorn</a>
+- <a href="https://github.com/les-3-fantastiques-V2/grade_de?tab=readme-ov-file#table_type_branch" target="_blank">Grade De</a>
 
 <br>
 
 Libraries:
-- [Linked List](https://github.com/dragusheen/linked_list-library)
-- [InputManager]()
-- [Papaya](https://github.com/dragusheen/papaya-library)
-- [Traductor](https://github.com/dragusheen/traductor-library)
+- <a href="https://github.com/dragusheen/linked_list-library" target="_blank">Linked List</a>
+- <a href="https://github.com/dragusheen/input_manager-library" target="_blank">InputManager</a>
+- <a href="https://github.com/dragusheen/papaya-library" target="_blank">Papaya</a>
+- <a href="https://github.com/dragusheen/traductor-library" target="_blank">Traductor</a>
 
 <br>
 <br>
@@ -120,4 +120,4 @@ Libraries:
 
 ## Credits
 
-Done with [GPRM](https://gprm.itsvg.in/)
+Done with <a href="https://gprm.itsvg.in/" target="_blank">GPRM</a>
