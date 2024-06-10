@@ -4,17 +4,11 @@
 <br>
 
 ## 💫 About Me
-<div style="display: flex; justify-content: space-between; align-items: center">
-    <div style=" max-width: 50%;">
+
 Curently in my second-year student at Epitech with a passion for graphic development. I thrive on imagining, designing, and bringing my ideas to life through code and creativity.<br><br>🎨 As a graphic developer, I blend my love for design with my technical skills to craft visually appealing and functional solutions.
 
-<br>
-<br>
-<br>
-<br>
 
-
-<div style="display: flex; justify-content: center; align-items: center">
+<div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1198005001952444598)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dragusheen)
@@ -25,16 +19,15 @@ Curently in my second-year student at Epitech with a passion for graphic develop
 
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center">
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=dragusheen&icon=7&color=10)](https://visitcount.itsvg.in)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dragusheen)
 
 </div>
-    </div>
-    <div>
-        <img src="https://media1.tenor.com/m/LvPkpm53orwAAAAC/anime-kanna.gif" style="height: 400px;" />
-    </div>
+
+<div align="center">
+    <img src="https://media1.tenor.com/m/LvPkpm53orwAAAAC/anime-kanna.gif" style="height: 400px;" />
 </div>
 
 <br>
