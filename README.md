@@ -114,5 +114,10 @@ Libraries:
 <br>
 <br>
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+
+## Credits
+
+Done with [GPRM](https://gprm.itsvg.in/)
