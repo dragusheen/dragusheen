@@ -48,7 +48,7 @@ Projects:
 Libraries:
 - <a href="https://github.com/dragusheen/linked_list-library" target="_blank">Linked List</a>
 - <a href="https://github.com/dragusheen/input_manager-library" target="_blank">InputManager</a>
-- <a href="https://github.com/dragusheen/papaya-library" target="_blank">Papaya</a>
+- Papaya (<a href="https://github.com/dragusheen/papaya-library-c" target="_blank">C</a> / <a href="https://github.com/dragusheen/papaya-library-cpp" target="_blank">C++</a>)
 - <a href="https://github.com/dragusheen/traductor-library" target="_blank">Traductor</a>
 
 <br>
@@ -102,6 +102,7 @@ Libraries:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dragusheen&theme=rose&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dragusheen&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 </div>
 
