@@ -112,12 +112,6 @@ Libraries:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dragusheen&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
-<br>
-
-## 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 
 ## Credits
 
