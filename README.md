@@ -35,27 +35,6 @@ Curently in my second-year student at Epitech with a passion for graphic develop
 <br>
 <br>
 
-# 👨‍💻 Projects & Libraries
-
-Projects:
-- <a href="https://github.com/dragusheen/tic_tac_toe_Bot" target="_blank">TicTacToe Bot</a>
-- <a href="https://github.com/dragusheen/EpicubeSolver" target="_blank">EpicubeSolver</a>
-- <a href="https://github.com/Yorn-Manager/yorn" target="_blank">Yorn</a>
-- <a href="https://github.com/les-3-fantastiques-V2/grade_de?tab=readme-ov-file#table_type_branch" target="_blank">Grade De</a>
-
-<br>
-
-Libraries:
-- <a href="https://github.com/dragusheen/linked_list-library" target="_blank">Linked List</a>
-- <a href="https://github.com/dragusheen/input_manager-library" target="_blank">InputManager</a>
-- Papaya (<a href="https://github.com/dragusheen/papaya-library-c" target="_blank">C</a> / <a href="https://github.com/dragusheen/papaya-library-cpp" target="_blank">C++</a>)
-- <a href="https://github.com/dragusheen/traductor-library" target="_blank">Traductor</a>
-
-<br>
-<br>
-<br>
-<br>
-
 # 💻 Tech Stack:
 
 ### Languages:
